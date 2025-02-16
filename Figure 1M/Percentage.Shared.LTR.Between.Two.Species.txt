@@ -1,0 +1,16 @@
+Species	Rconc	Rdeco	Rdela	Rgrie	Rhena	Rirro	Rlili	Rmoll	Rovat	Rplat	Rprat	Rripe	Rsims	Rvial	Rwill
+Rconc		0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Rdeco	0		1	1	1	1	0	0	0	4	1	0	0	0	0
+Rdela	0	1		0	1	1	0	0	0	1	1	0	0	0	0
+Rgrie	0	1	0		1	0	0	0	0	1	1	0	0	0	0
+Rhena	0	1	1	1		1	0	0	0	2	2	0	0	0	0
+Rirro	0	1	0	1	1		0	0	0	1	1	0	0	0	0
+Rlili	0	0	0	0	0	0		0	0	0	0	0	0	0	0
+Rmoll	0	0	0	0	0	0	0		0	0	0	0	0	0	0
+Rovat	0	0	0	0	0	0	0	0		0	0	0	0	0	0
+Rplat	0	4	0	1	2	1	0	0	0		1	0	0	0	0
+Rprat	0	1	0	1	2	1	0	0	0	1		0	0	0	0
+Rripe	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Rsims	0	0	0	0	0	0	0	0	0	0	0	0		0	0
+Rvial	0	0	0	0	0	0	0	0	0	0	0	0	0		0
+Rwill	0	15	2	5	11	3	0	0	0	15	12	0	0	0	

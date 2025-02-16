@@ -1,0 +1,16 @@
+Frequency	Number	Category
+1	2970	Private
+2	9680	Dispensable
+3	4706	Dispensable
+4	2886	Dispensable
+5	1924	Dispensable
+6	1442	Dispensable
+7	1257	Dispensable
+8	1122	Dispensable
+9	1031	Dispensable
+10	1135	Dispensable
+11	1330	Dispensable
+12	2023	Dispensable
+13	3303	Dispensable
+14	5188	Dispensable
+15	5734	Core

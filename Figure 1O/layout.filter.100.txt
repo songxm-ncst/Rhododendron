@@ -1,0 +1,31 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ 0.2,     .15,    .85,      0,      , R. liliiflorum, bottom, Rlili.bed
+ 0.242857142857143,     .15,    .85,      0,      , R. platypodum, , Rplat.bed
+ 0.285714285714286,     .15,    .85,      0,      , R. decorum, , Rdeco.bed
+ 0.328571428571429,     .15,    .85,      0,      , R. concinnum, , Rconc.bed
+ 0.371428571428571,     .15,    .85,      0,      , R. delavayi, , Rdela.bed
+ 0.414285714285714,     .15,    .85,      0,      , R. henanense, , Rhena.bed
+ 0.457142857142857,     .15,    .85,      0,      , R. ovatum, , Rovat.bed
+ 0.5,     .15,    .85,      0,      , R. simsii, , Rsims.bed
+ 0.542857142857143,     .15,    .85,      0,      , R. williamsianum, , Rwill.bed
+ 0.585714285714286,     .15,    .85,      0,      , R. molle, , Rmoll.bed
+ 0.628571428571429,     .15,    .85,      0,      , R. griersonianum, , Rgrie.bed
+ 0.671428571428571,     .15,    .85,      0,      , R. ripense, , Rripe.bed
+ 0.714285714285714,     .15,    .85,      0,      , R. prattii, , Rprat.bed
+ 0.757142857142857,     .15,    .85,      0,      , R. irroratum, , Rirro.bed
+ 0.8,     .15,    .85,      0,      , R. vialii, top, Rvial.bed
+# edges
+e, 0, 1, Rlili_Rplat.filter.100.Genes.collinearity.anchors.simple
+e, 1, 2, Rplat_Rdeco.filter.100.Genes.collinearity.anchors.simple
+e, 2, 3, Rdeco_Rconc.filter.100.Genes.collinearity.anchors.simple
+e, 3, 4, Rconc_Rdela.filter.100.Genes.collinearity.anchors.simple
+e, 4, 5, Rdela_Rhena.filter.100.Genes.collinearity.anchors.simple
+e, 5, 6, Rhena_Rovat.filter.100.Genes.collinearity.anchors.simple
+e, 6, 7, Rovat_Rsims.filter.100.Genes.collinearity.anchors.simple
+e, 7, 8, Rsims_Rwill.filter.100.Genes.collinearity.anchors.simple
+e, 8, 9, Rwill_Rmoll.filter.100.Genes.collinearity.anchors.simple
+e, 9, 10, Rmoll_Rgrie.filter.100.Genes.collinearity.anchors.simple
+e, 10, 11, Rgrie_Rripe.filter.100.Genes.collinearity.anchors.simple
+e, 11, 12, Rripe_Rprat.filter.100.Genes.collinearity.anchors.simple
+e, 12, 13, Rprat_Rirro.filter.100.Genes.collinearity.anchors.simple
+e, 13, 14, Rirro_Rvial.filter.100.Genes.collinearity.anchors.simple
